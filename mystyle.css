@@ -1,0 +1,278 @@
+#top{
+	background-color: white;
+	width: 100%;
+}
+#rest{
+	background-color: #E3F0F0;
+	width: 100%;
+}
+body{
+	margin: 0;
+}
+h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+
+h2 {
+    color: red;
+    margin-left: 20px;
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+ 
+}
+
+.Angry {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/angry1.png') center top no-repeat;
+}
+
+.Angry:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/angry2.png') center top no-repeat;
+}
+
+.Animal {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/ani1.png') center top no-repeat;
+}
+
+.Animal:hover {
+  	 margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/ani2.png') center top no-repeat;
+}
+
+.Cool {
+   	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/cool1.png') center top no-repeat;
+}
+
+.Cool:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/cool2.png') center top no-repeat;
+}
+
+.Happy {
+	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/happy1.png') center top no-repeat;
+}
+
+.Happy:hover {
+   	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/happy2.png') center top no-repeat;
+}
+
+.Holiday {
+   	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/holi1.png') center top no-repeat;
+}
+
+.Holiday:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/holi2.png') center top no-repeat;
+}
+
+.Laugh {
+   	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/laugh1.png') center top no-repeat;
+}
+
+.Laugh:hover {
+   	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/laugh2.png') center top no-repeat;
+}
+
+.Love {
+   	margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/love1.png') center top no-repeat;
+}
+
+.Love:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/love2.png') center top no-repeat;
+}
+
+.Poop {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/poop1.png') center top no-repeat;
+}
+
+.Poop:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/poop2.png') center top no-repeat;
+}
+
+.Sad {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/sad1.png') center top no-repeat;
+}
+
+.Sad:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/sad2.png') center top no-repeat;
+}
+
+.Scary {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/scary1.png') center top no-repeat;
+}
+
+.Scary:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/scary2.png') center top no-repeat;
+}
+
+.Science {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/sci1.png') center top no-repeat;
+}
+
+.Science:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/sci2.png') center top no-repeat;
+}
+
+.Silly {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/silly1.png') center top no-repeat;
+}
+
+.Silly:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/silly2.png') center top no-repeat;
+}
+
+.Sleep {
+   bmargin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/sleep1.png') center top no-repeat;
+}
+
+.Sleep:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/sleep2.png') center top no-repeat;
+}
+
+.WTF {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/wtf1.png') center top no-repeat;
+}
+
+.WTF:hover {
+   margin-bottom: 10px;
+	width: 205px;
+	height:205px;
+	display:block;
+	background:transparent url('emojis/wtf2.png') center top no-repeat;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #6B7A7B;
+}
+
+.active {
+    background-color: #E3F0F0;
+}
