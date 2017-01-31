@@ -1,5 +1,7 @@
-# me_irl
+moji-mate 
 
-We are commited to bringing you dank memes. 
+Built at YHack 2016
 
-Have a dank day
+The basis of the movie and music recommendation site using TheMovieDB api, however the Javascript wasn't working so this is a working sample without multiple recommendations. 
+
+Devpost submission: https://devpost.com/software/mygithubpage-yalmj6 
